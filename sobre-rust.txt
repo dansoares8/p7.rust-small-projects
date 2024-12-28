@@ -1,0 +1,41 @@
+Rust está crescendo bastante no espaço web: 
+- APIs e Backends: Frameworks como Actix Web e Axum;
+- SERVIÇOS WEB DE ALTA CONCORRÊNCIA: Servidores de alto desempenho para lidar com milhões de conexões simulâneas.
+
+Rust no desenvolvimento front-end:
+- Webassembly (wasm): transforme código rust em webassembly para criar aplicativos web rápidos e eficientes. 
+-- Ex: criar jogos ou renderizadores no navegador.
+
+Rust em Aplicações Desktop:
+- Ferramentas modernas permitem que você crie aplicativos gráficos: 
+-- GUI: Frameworks como Tauri (para criar aplicativos desktop compactos) e Druid.
+
+6. Inteligência Artificial e Machine Learning
+- Embora ainda em desenvolvimento, bibliotecas como ndarray e rust-ml permitem:
+-- Processamento de dados em alta velocidade.
+-- Algoritmos de aprendizado de máquina personalizados.
+
+7. DevOps e Ferramentas CLI
+- Rust é muito usado para criar ferramentas CLI devido à sua velocidade e binários pequenos:
+-- Ferramentas como ripgrep (busca eficiente) e bat (um cat aprimorado).
+-- Scripts de automação de infraestrutura.
+
+8. Blockchain e Criptomoedas:
+- Rust é amplamente usado em projetos de blockchain:
+-- Substrate Framework: Base para criar blockchains personalizadas.
+-- Criação de contratos inteligentes e ferramentas para análise de transações.
+
+9. Redes e Protocolos
+- Rust é muito eficiente para redes devido ao controle detalhado sobre threads e memória:
+-- Servidores e proxies HTTP.
+-- Implementação de protocolos personalizados.
+-- Softwares como Firewalls e VPNs.
+
+10. Ferramentas Científicas e de Dados
+- Processamento de grandes conjuntos de dados.
+- Softwares que exigem alta performance matemática.
+
+- Exemplos Práticos:
+-- Ferramentas: Ferramenta para compressão ou manipulação de arquivos.
+-- Jogos: Um jogo 2D ou 3D com bibliotecas como Amethyst.
+-- API: Backend para um site que exige grande escalabilidade.

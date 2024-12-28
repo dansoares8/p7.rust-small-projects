@@ -1,0 +1,6 @@
+install rust > pode ser o .exe pelo site oficial.
+após instalado, testar: "rustc --version" e "cargo --version"
+cargo é o gerenciador de pacotes do rust.
+
+O framework "dioxus" foi criado com a premissa de ser um cross platform do rust, 
+para desenvolver em fullstack web, desktop, mobile apps. 
