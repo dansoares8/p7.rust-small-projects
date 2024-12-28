@@ -1,3 +1,10 @@
+//PRÓXIMAS MELHORIAS:
+
+/* A próxima melhoria será permitir que os usuários possam digitar suas notas, 
+dos 4 bimestres do ano letivo e, após digitar as 4 notas, obter um retorno com o valor da média */
+
+
+
 fn calcular_media(notas: &[f32]) -> f32{
     let tamanho = notas.len();
 
@@ -24,3 +31,4 @@ fn main(){
 
     println!("A media das notas eh: {}", media);
 }
+
